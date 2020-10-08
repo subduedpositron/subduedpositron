@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "facts or stories, laws or principles"
+title:  "facts vs stories, laws vs principles"
 date:   2020-10-08 09:03:56 -0400
 categories: jekyll update
 ---

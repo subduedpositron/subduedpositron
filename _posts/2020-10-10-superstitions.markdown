@@ -4,7 +4,7 @@ title:  "superstitions"
 date:   2020-10-08 09:03:56 -0400
 categories: jekyll update
 ---
-actions done in preparation for an upcoming moment, that don’t materially affect the moment 
+**actions done in preparation for an upcoming moment, that don’t materially affect the moment**
 <!-- Tags: personal -->
 
 When I was playing sports, I’d have some superstitions. 

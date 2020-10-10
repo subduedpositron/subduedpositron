@@ -11,16 +11,8 @@ I lean towards a pseudonym - especially at first - because:
 
 - It focuses on the idea, rather than the individual.   
     - The majority of content I consume, I like to be authored from sources who I don’t know - at least initially - their real-life identity.
-    - There are certain types of claims (expand on?) that it's very strong to have someone’s name associated with. 
-        - Their name associated with the work can lend credibility due expertise in a given domain.
+    - There are certain types of claims (expand on?) that it's very strong to have someone’s name associated with, for which writing under a psuedonum doesn't allow. 
+        - Their name associated with the work can lend credibility due to experience or specific knowledge.
         - the inherent stakes with having their name associated with their work gives a clear motivation to not be deceitful(better word?). 
     - An author’s name can also lead to biases - where I might be more inclined to believe or dismiss their claim than perhaps I should be.
-- Earlier drafts : I can feel more comfortable having an piece under a pseudonym at an earlier stage while 
-it’s being formulated, and then perhaps deciding to move it under my real name
-
-A pseudonym (that isn’t greatly established) doesn’t allow establishing credibility by ethos, so I have to use pathos/logos instead.
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+- Earlier drafts : I can feel more comfortable having an piece under a pseudonym at an earlier stage while it’s being formulated, and then perhaps deciding later to move it under my real name

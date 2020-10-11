@@ -12,9 +12,9 @@ categories: jekyll update
 - **Scope: Breadth** of topics instead of depth on particular topics 
     - Can see after the fact if recurring themes emerge
 - **Time relevance: everlasting** content instead of timely/ephemeral
-<!-- Cadence: 
-a batch of new post(s) every ~2 or so months
-previous posts can be edited anytime for clarity, conciseness, refining of the topic’s objective, etc -->
+- **Frequency**:
+    - a batch of new post(s) every 1 or 2 months
+    - previous posts will be edited anytime for clarity, conciseness, refining of the topic’s objective, etc 
 - **Verbosity**: Prefer **brevity with possible under-explanation** instead of the opposite
 - **Punctuation Style (/ {} ?)**: use punctuation for intentional ambiguity, and separating sections
     - / means and/or . will also use {} ex. for {many choices / choices with multiple words,etc}

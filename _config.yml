@@ -27,7 +27,7 @@ title: subduedpositron
 baseurl: "/subduedpositron" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  subduedpositron
+# github_username:  subduedpositron
 
 # Build settings
 theme: minima

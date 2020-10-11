@@ -33,4 +33,4 @@ categories: jekyll update
 - **negative topics**. ex. about crime media,. Ideas i still want to explore (and **aiming to have a {constructive/minimally ranty} approach**), but don’t want to keep bringing more content related to these topics into the same easily accessible sphere as the public posts- there’s plenty of external content on those topics. (And this barrier makes it a more intentional decision with friction to view this, instead of happening upon it).
 
 
-I'm restricting access to the {underdeveloped/unverified/not logically sound/negative} posts via a phrase: you (will soon be able to) enter it here, which will make available a tab. It’s “{word}404”, where word is an 8 letter word.
+I'm restricting access to the {underdeveloped/unverified/not logically sound/negative} posts via a phrase: you (will soon be able to) enter it here. It’s “{word}404”, where word is an 8 letter word.

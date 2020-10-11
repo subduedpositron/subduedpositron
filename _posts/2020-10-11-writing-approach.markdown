@@ -19,7 +19,6 @@ categories: jekyll update
 - **Punctuation Style (/ {} ?)**: use punctuation for intentional ambiguity, and separating sections
     - / means and/or . will also use {} ex. for {many choices / choices with multiple words,etc}
     - (?) means i want to find a more precise word for what i’m trying to convey, and the current word captures the general idea, but may be imprecise
-    - Bold text, for either clearer section organization or emphasis
 
 
 <br>

@@ -7,7 +7,7 @@ categories: jekyll update
 A key decision is whether to write under an anonymous/psuedonym or my own name.
 I lean towards a pseudonym - especially at first - because:
 
-- For me, it allows a little greater freedom of writing, without worrying about how it reflects on my professional/personal life. I don’t have a fear of being doxxed, although I’d prefer not to. Some may know me in real life.  Nevertheless the separation greatly appeals to, even though I don’t intend to write about things that would harm my reputation or I’m scared to be associated with  -  me.  I can use personal anecdotes with non-specific details without feeling like I’m oversharing publicly.
+- For me, it allows a little greater freedom of writing, without worrying about how it reflects on my professional/personal life. I don’t have a fear of being doxxed.  Nevertheless the separation greatly appeals to, even though I don’t intend to write about things that would harm my reputation or I’m scared to be associated with.  I can use personal anecdotes with non-specific details without feeling like I’m oversharing publicly.
 
 - It focuses on the idea, rather than the individual.   
     - The majority of content I consume, I like to be authored from sources who I don’t know - at least initially - their real-life identity.

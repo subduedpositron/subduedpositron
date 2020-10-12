@@ -5,7 +5,7 @@ date:   2020-10-11 09:03:56 -0400
 categories: jekyll update
 ---
 #### My anticipated writing focuses/approach for each post
-- **Logic Rationale: Principles** over facts/laws
+- [**Logic Rationale: Principles** over facts/laws](https://subduedpositron.github.io/subduedpositron/jekyll/update/2020/10/08/principles.html)
     - Aim to capture the **degree of uncertainty** of any claims within a post
 
 - **Tone:  neutral/optimistic.** Prefer **realistic** over idealistic, but can have both aspects
@@ -29,7 +29,7 @@ categories: jekyll update
     - could still be figuring out the objective of the post
     - or some claims need verification/ensuring they aren’t logically flawed, and I want to eliminate/minimize inexact claims
 
-- **negative topics**. ex. about crime media,. Ideas i still want to explore (and **aiming to have a {constructive/minimally ranty} approach**), but don’t want to keep bringing more content related to these topics into the same easily accessible sphere as the public posts- there’s plenty of external content on those topics. (And this barrier makes it a more intentional decision with friction to view this, instead of happening upon it).
+- **with negative vibes**. ex. about crime media, climate change. Ideas i still want to explore (and **aiming to have a {constructive/minimally ranty} approach**), but don’t want bring more content related to these topics into the same easily accessible sphere as the public posts- there’s plenty of external content on these topics. (And this barrier makes it a more intentional decision with friction to view this, instead of happening upon it).
 
 
 I'm restricting access to the {underdeveloped/unverified/not logically sound/negative} posts via a phrase: you (will soon be able to) enter it here. It’s “{word}404”, where word is an 8 letter word.

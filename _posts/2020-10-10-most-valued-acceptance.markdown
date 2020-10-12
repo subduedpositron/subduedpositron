@@ -12,7 +12,7 @@ There can be motivation to change it.
 - Sometimes, things are going really well personally, so we want to realize our potential and have a broader impact outside of ourselves. 
 - Another reason we might be upset is if something else is not ideal in our life - let’s find something way worse - and now our issue comparatively isn’t as big of a deal. 
 
-This great world we live in is a package deal. It seems like what i’m trying to strive for is acceptance, but not complacency. Choosing it as motivation or fuel, but not pointless outrage or jaded helplessness. People are going to do stupid/malicious things, unfortunate events are going to happen, and the resulting negative externalities can also affect your or other’s lives, marginally or greatly. If we have opportunity and a comparative advantage (for efficiency's sake), we can do something about it on our own cadence. We don't have to do it all at once. And that’s ok.
+This great world we live in is a package deal. It seems like what i’m trying to strive for is acceptance, but not complacency. Choosing it as motivation or fuel, but not pointless outrage or jaded cynicism. People are going to do stupid/malicious things, unfortunate events are going to happen, and the resulting negative externalities can also affect your or other’s lives, marginally or greatly. If we have opportunity and a comparative advantage (for efficiency's sake), we can do something about it on our own cadence. We don't have to do it all at once. And that’s ok.
 
 <!-- At various stages, we can make our lives and/or one of these world problems in some dimension slightly better.  -->
 <!-- even if we improved everything (maximally/beyond), there will continue to be bad things -->

@@ -5,14 +5,16 @@ date:   2020-10-08 09:03:56 -0400
 categories: jekyll update
 ---
 A key decision is whether to write under an anonymous/psuedonym or my own name.
-I lean towards a pseudonym - especially at first - because:
+I use a pseudonym because:
 
 - For me, it allows a little greater freedom of writing, without worrying about how it reflects on my professional/personal life. I don’t have a fear of being doxxed.  Nevertheless the separation greatly appeals to, even though I don’t intend to write about things that would harm my reputation or I’m scared to be associated with.  I can use personal anecdotes with non-specific details without feeling like I’m oversharing publicly.
 
-- It focuses on the idea, rather than the individual.   
+- It focuses on the idea, rather than the individual - and the post has to have value solely by itself
     - The majority of content I consume, I like to be authored from sources who I don’t know - at least initially - their real-life identity.
-    - There are certain types of claims (expand on?) that it's very strong to have someone’s name associated with, for which writing under a psuedonum doesn't allow. 
+    - An author’s name can bias the reader - who might be more inclined to believe or dismiss their claim than perhaps should be.
+    - However, here are certain types of claims (expand on?) that it's strong/beneficial to have someone’s name associated with, for which writing under a psuedonum doesn't allow. 
         - Their name associated with the work can lend credibility due to experience or specific knowledge.
         - the inherent stakes with having their name associated with their work gives a clear motivation to not be deceitful(better word?). 
-    - An author’s name can also lead to biases - where I might be more inclined to believe or dismiss their claim than perhaps I should be.
-- Earlier drafts : I can feel more comfortable having an piece under a pseudonym at an earlier stage while it’s being formulated, and then perhaps deciding later to move it under my real name
+    
+    
+<!-- - Earlier drafts : I can feel more comfortable having an piece under a pseudonym at an earlier stage while it’s being formulated, and then perhaps deciding later to move it under my real name -->

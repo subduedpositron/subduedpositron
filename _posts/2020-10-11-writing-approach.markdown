@@ -33,4 +33,5 @@ categories: jekyll update
     - topics are more likely be categorized in this negative group if it's something we can't individually/directly affect
 
 
-I'm restricting access to the {underdeveloped/unverified/not logically sound/negative} posts via a phrase: you (will soon be able to) enter it here. It’s “{word}404”, where word is an 8 letter word.
+I'm restricting access to the {underdeveloped/unverified/not logically sound/negative} posts via a phrase: you can enter it here. It’s “{word}404”, where word is an 8 letter word.
+[Enter it here](/subduedpositron/login)

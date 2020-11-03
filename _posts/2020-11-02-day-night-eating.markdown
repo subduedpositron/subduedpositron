@@ -12,7 +12,6 @@ I want to:
 - not caring about total # of calories
 
 
-Saturated fat is the component I want to most reduce. Dietary cholesterol and sodium are relatively close for second place. Dietary cholesterol is [roughly half as important as saturated fat](https://www.webmd.com/food-recipes/features/cholesterol-food#1). Sodium can be counteracted with potassium or water.
 
 One approach that doesn’t work for me to consistently hit these goals, is the “Eat breakfast like a king and dinner like a pauper” approach.  I definitely enjoy large breakfasts to start the day, which may also benefit metabolism. But after eating a healthy/regular-portioned dinner, i’ll sometimes feel hungry later and snack away the benefits afterwards. For that specific day, it seems worth it; as it’s easier for me to go to sleep when not hungry. Also due to willpower depletion as the day elapses, I'm more likely to have unplanned snacks at night for enjoyment over health.
 <br/>
@@ -23,6 +22,7 @@ One approach that doesn’t work for me to consistently hit these goals, is the 
     - reduces decision making of whether each meal should be healthy or not
     - starting off on the healthy side makes me feel ahead healthwise throughout the day - and having a meal to look forward to
 
+- Saturated/trans fat is the component I'm aiming to most reduce (but not eliminate, some of the best foods have it). Dietary cholesterol and sodium are relatively close for second place. Dietary cholesterol is [roughly half as important as saturated fat](https://www.webmd.com/food-recipes/features/cholesterol-food#1). Sodium can be counteracted with potassium or water.
 - short-term (the current day) or mid-term stress with a set end (ex. less than a week) is the largest factor that makes me stray from this 
     - almost always glad I choose enjoyable eating during stressful times, as its worth it
     - so can aim when possible to reduce stressful situations that have this effect, but i'm glad to give in when they do happen without regrets 

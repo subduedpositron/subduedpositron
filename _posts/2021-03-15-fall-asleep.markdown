@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "choosing video games to play"
+title:  "topics i fall asleep to"
 date:   2021-03-15 09:03:56 -0400
 categories: jekyll update
 ---

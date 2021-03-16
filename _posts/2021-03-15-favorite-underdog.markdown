@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "To be a favorite or an underdog"
+date:   2021-03-15 09:03:56 -0400
+categories: jekyll update
+---
+
 To be a favorite or an underdog
 I  am trying to put myself in situations of my life where I feel like the underdog in some parts, and a favorite in others. 
 

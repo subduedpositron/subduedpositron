@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "topics i fall asleep to"
+title:  "a minor hamstring injury"
 date:   2021-03-15 07:03:56 -0400
 categories: jekyll update
 ---
@@ -13,8 +13,9 @@ It happened immediately - with zero indication from the previous rep, on the sec
 Why I do single leg press
     - to improve power/quickness, already have enough strength. so max power/speed over max weight
     - minimize chance of back injury
-        - doing squats/deadlifts, even two leg press, it seems like a matter of time before i tweak my back
+        - if i to do squats/deadlifts, even two leg press, it seems like a matter of time before i tweak my back
         - reducing back injuries are (an order of magnitude, infinitely) more important than other types of muscular injuries
+        - possible concentrating on isolated exercises leads body to more susceptible
             
         
 Adjustments I'm making

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "To be a favorite or an underdog"
-date:   2021-03-15 09:03:56 -0400
+date:   2021-03-15 08:03:56 -0400
 categories: jekyll update
 ---
 

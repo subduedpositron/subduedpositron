@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "micro / macro observational studies"
+title:  "micro / macro observations"
 date:   2021-03-23 09:03:56 -0400
 categories: jekyll update
 ---
